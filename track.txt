@@ -1,0 +1,11 @@
+progress 
+the introductory page 
+about the web page 
+services/courses 
+acheivements/project 
+contacts 
+logo 
+images 
+mentor 
+Deployment 
+Presentation
