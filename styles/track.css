@@ -34,19 +34,19 @@ body {
   margin: 0;
 }
 
-#home h1 { color: #ffcc00; }
+#home h1 { color: #00ffcc; }
 #home p { color: #ffffff; }
 
 #roadmap h2 { color: #00ffcc; }
 #roadmap p { color: #cccccc; }
 
-#modules h2 { color: #ffcc00; }
+#modules h2 { color: #00ffcc; }
 #modules p { color: #ffffff; }
 
 #badges h2 { color: #00ffcc; }
 #badges p { color: #cccccc; }
 
-#mentors h2 { color: #ffcc00; }
+#mentors h2 { color: #00ffcc; }
 #mentors p { color: #ffffff; }
 
 #resources h2 { color: #00ffcc; }
